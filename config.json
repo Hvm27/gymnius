@@ -1,0 +1,112 @@
+{
+    "carousel": {
+        "journeys": [
+            {
+                "name": "Musculação",
+                "image": "https://images.unsplash.com/photo-1618169480981-ddb08182cfa8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8ZHVtYmJlbGxzfGVufDB8MXwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+                "exercises": [
+                    {
+                        "name": "exercise name aaaaaaaaaaaaaa1",
+                        "description": "description musculação 1",
+                        "video": "video musulação 1"
+                    },
+                    {
+                        "name": "exercise name 2",
+                        "description": "description musculação 2",
+                        "video": "video musulação 2"
+                    },
+                    {
+                        "name": "exercise name 3",
+                        "description": "description musculação 3",
+                        "video": "video musulação 3"
+                    },
+                    {
+                        "name": "exercise name 3",
+                        "description": "description musculação 3",
+                        "video": "video musulação 3"
+                    },
+                    {
+                        "name": "exercise name 3",
+                        "description": "description musculação 3",
+                        "video": "video musulação 3"
+                    },
+                    {
+                        "name": "exercise name 3",
+                        "description": "description musculação 3",
+                        "video": "video musulação 3"
+                    },
+                    {
+                        "name": "exercise name 3",
+                        "description": "description musculação 3",
+                        "video": "video musulação 3"
+                    }
+                ]
+            },
+            {
+                "name": "Spinning",
+                "image": "https://images.unsplash.com/photo-1521404495898-64de72eda993?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8c3Bpbm5pbmd8ZW58MHwxfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                "exercises": [
+                    {
+                        "name": "Spinning name 1",
+                        "description": "description Spinning 1",
+                        "video": "video Spinning 1"
+                    },
+                    {
+                        "name": "Spinning name 2",
+                        "description": "description Spinning 2",
+                        "video": "video Spinning 2"
+                    },
+                    {
+                        "name": "Spinning name 3",
+                        "description": "description Spinning 3",
+                        "video": "video Spinning 3"
+                    }
+                ]
+            },
+            {
+                "name": "Yoga",
+                "image": "https://images.unsplash.com/photo-1591343395902-1adcb454c4e2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjJ8fHlvZ2F8ZW58MHwxfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                "exercises": [
+                    {
+                        "name": "Yoga name 1",
+                        "description": "description Yoga 1",
+                        "video": "video Yoga 1"
+                    },
+                    {
+                        "name": "Yoga name 2",
+                        "description": "description Yoga 2",
+                        "video": "video Yoga 2"
+                    },
+                    {
+                        "name": "Yoga name 3",
+                        "description": "description Yoga 3",
+                        "video": "video Yoga 3"
+                    }
+                ]
+            },
+            {
+                "name": "teste",
+                "image": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Zml0bmVzc3xlbnwwfDF8MHx8&auto=format&fit=crop&w=500&q=60",
+                "exercises": [
+                    {
+                        "name": "teste name 1",
+                        "description": "description Yoga 1",
+                        "video": "video Yoga 1"
+                    },
+                    {
+                        "name": "teste name 2",
+                        "description": "description Yoga 2",
+                        "video": "video Yoga 2"
+                    },
+                    {
+                        "name": "teste name 3",
+                        "description": "description Yoga 3",
+                        "video": "video Yoga 3"
+                    }
+                ]
+            }
+            
+        ],
+        "chave2": []
+    }
+}
