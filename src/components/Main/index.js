@@ -11,7 +11,7 @@ export default function Main({setCurrentJourney}) {
     )
 }
 
-//  note: A estilização das tags .motion estão no formato de propriedade temporariamente. Obrigado pela compreensão <3
+//  note: A estilização das tags .motion estão no formato de propriedade temporariamente.
 function Carousel( { setCurrentJourney, ...props} ) {
 
     const setJourney = setCurrentJourney
